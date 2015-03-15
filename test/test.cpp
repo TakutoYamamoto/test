@@ -7,6 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	std::string hoge;
+	hoge = "test";
 	return 0;
 }
 
